@@ -80,7 +80,7 @@ class _LoginState extends State<Login> {
                       style: TextStyle(
                         fontSize: 24,
                         fontWeight: FontWeight.bold,
-                        color: Colors.amber,
+                        color: titulos,
                       ),
                     ),
                     const SizedBox(height: 20),

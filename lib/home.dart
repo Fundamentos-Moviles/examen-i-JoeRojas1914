@@ -46,7 +46,7 @@ class _HomeState extends State<Home> {
                 child: const Text(
                   'Notificación de actividades',
                   style: TextStyle(
-                      color: Colors.amber,
+                      color: titulos,
                       fontWeight: FontWeight.bold,
                       fontSize: 32.0
                   ),
